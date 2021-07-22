@@ -1,7 +1,7 @@
-# Zoom-Clone
+<h1><p align ="center">ZOOM CLONE<p></h1>
 
 <h3 align="center"> Home Page of zoom </h3> 
-
+  
 <kbd> ![Zoom](https://github.com/Maverick-99/Zoom-Clone/blob/main/images/1.png) </kbd>  
 <hr>
 <h3 align="center"> Page showing two screens with two different users connected in a same room using a meeting link  </h3> 
