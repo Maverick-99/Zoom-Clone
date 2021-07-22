@@ -9,15 +9,18 @@
 <kbd> ![Zoom](https://github.com/Maverick-99/Zoom-Clone/blob/main/images/2.png) </kbd> 
 <hr>
 <h3 align="center"> Meeting link can be seen in address bar </h3> 
-
-<kbd> ![Zoom](https://github.com/Maverick-99/Zoom-Clone/blob/main/images/3.png) </kbd> 
+<div align="center">
+  
+<kbd align="center"> ![Zoom](https://github.com/Maverick-99/Zoom-Clone/blob/main/images/3.png) </kbd>
+</div>
 
 <hr>
+  
 <h3 align="center"> A chat window for users </h3>
 
 <div align="center">
   
-<kbd align="center"> ![Zoom](https://github.com/Maverick-99/Zoom-Clone/blob/main/images/4.png) </kbd> 
+<kbd> ![Zoom](https://github.com/Maverick-99/Zoom-Clone/blob/main/images/4.png) </kbd> 
 </div>
 
 <hr>
